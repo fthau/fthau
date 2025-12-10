@@ -22,7 +22,7 @@ I'm managing and moderating the Transfer Pathways Discord community. Assisting w
 
 *Fluent in English & Spanish.*
 
-## Programming skills
+## Programming Skills
 
 Experience with Python, Java, SQL, C, C++, and C# (familiar with HTML & JavaScript)
 
@@ -35,3 +35,13 @@ Frameworks: JavaFX, Java Swing, JUnit, .NET
 • Adobe Certified Professional in Graphic Design & Illustration using Adobe Illustrator & Adobe Photoshop CC 2015
 
 • Intuit Quickbooks & Entrepreneurship and Small Business certifications
+
+## Interests
+- Fútbol ⚽️
+- Games 🐉🗡️
+- Books 🔱
+- Super-heroes 🦸🏻‍♂️
+- Movies & Shows 🕵️‍♂️
+- Anime & Manga 🥷
+
+- ... and just about everything else ♒️
