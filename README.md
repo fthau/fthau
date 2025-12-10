@@ -14,15 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Program ambassador for incoming MDC transfer students. Teaching Java at MDC for over 40 students covering conditionals, loops, strings, arrays, methods, classes/objects, array lists & linked lists, memory management, files, I/O, inheritance, and recursion. 
+### About me
+
+I'm currently a Transfer Program ambassador for incoming MDC -> FIU transfer students. Teaching Java at MDC for over 40 students covering conditionals, loops, strings, arrays, methods, classes/objects, array lists & linked lists, memory management, files, I/O, inheritance, and recursion. 
 
 Managing and moderating the Transfer Pathways Discord community. Assisting with student engagement activities, including events and resource creation. Gaining experience in peer support, community building, and student services.
 
-Programming skills: Experience with Python, Java, SQL, C, C++, and C# (familiar with HTML & JavaScript)
+### Programming skills
+
+Experience with Python, Java, SQL, C, C++, and C# (familiar with HTML & JavaScript)
 Frameworks: JavaFX, Java Swing, JUnit, .NET
 Fluent in English & Spanish.
 
-Industry Certifications (Business & Design):
+### Industry Certifications (Business & Design)
+
 • MOS certifications in Word, Excel, and Powerpoint (& SIMnet exam for Access)
 • Adobe Certified Professional in Graphic Design & Illustration using Adobe Illustrator & Adobe Photoshop CC 2015.
 • Intuit Quickbooks & Entrepreneurship and Small Business certifications.
