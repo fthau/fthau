@@ -22,6 +22,11 @@ I'm managing and moderating the Transfer Pathways Discord community. Assisting w
 
 *Fluent in English & Spanish.*
 
+Also active as a Technical Instructor for WiCyS at FIU, working on:
+- Curriculum Development & Instruction: Designing and leading a comprehensive technical syllabus focused on both offensive and defensive cybersecurity, covering topics such as SQL injection vulnerabilities and firewalls.
+
+- Hands-on Technical Workshops: Facilitating interactive labs to build member proficiency in Linux/Ubuntu command-line environments and fundamental networking protocols, bridging the gap between classroom theory and industry application.
+
 ## Programming Skills
 
 Experience with Python, Java, SQL, C, C++, and C# (familiar with HTML & JavaScript)
